@@ -1,1 +1,4 @@
-
+{
+  "api_url": "http://fyxzpedia.panelcloud.web.id:2264",
+  "ws_url": "ws://fyxzpedia.panelcloud.web.id:2264"
+}
